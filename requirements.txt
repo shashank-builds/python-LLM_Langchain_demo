@@ -12,7 +12,7 @@ requests
 numpy
 pandas
 streamlit
-scholary 
+scholarly 
 autogen 
 fastapi 
 python-dotenv
