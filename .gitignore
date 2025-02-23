@@ -1,0 +1,9 @@
+langEnv/
+/.env 
+/LLM_App_Langchain.ipynb
+/fr_generate_searchable_pdf_azureAI.py
+*.md
+!README.md
+*.ckpt
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
