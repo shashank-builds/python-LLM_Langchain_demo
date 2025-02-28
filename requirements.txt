@@ -1,5 +1,7 @@
 openai
 langchain
+langchain-community        # Extends LangChain with community-built tools
+langchain-core             # Core components for building LLM apps
 langchain_openai
 langchain_experimental
 langchainhub
@@ -15,6 +17,7 @@ streamlit
 scholarly 
 autogen 
 fastapi 
-python-dotenv
+langchain_groq             # Integrates GROQ features with LangChain
+transformers               # to calculate get_token_ids.
 
 
